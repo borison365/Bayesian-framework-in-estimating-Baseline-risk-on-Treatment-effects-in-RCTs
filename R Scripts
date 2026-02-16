@@ -1,5 +1,5 @@
 ################################################################################################################################
-########## PART OF THE ACP DATASET WAS USED TO MODEL BASELINE RISK AT 5, 25 AND 15 YEARS IN HYPERTENSIVE PATIENTS ##############
+########## PART OF THE ACP DATASET WAS USED TO MODEL BASELINE RISK AT 5, 10 AND 15 YEARS IN HYPERTENSIVE PATIENTS ##############
 ################################################################################################################################
 
 dat <- data.frame(
